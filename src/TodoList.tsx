@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { View, Button, Text, StyleSheet, FlatList } from "react-native";
+import React, { View, Button, Text, StyleSheet, FlatList } from "react-native";
 
 import { generateClient } from "aws-amplify/data";
 import type { Schema } from "../amplify/data/resource";

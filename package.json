@@ -27,10 +27,12 @@
     "@aws-amplify/backend-cli": "^1.0.3",
     "@babel/core": "^7.20.0",
     "@types/react": "~18.2.45",
+    "@types/react-native": "^0.73.0",
     "aws-cdk": "^2.142.1",
     "aws-cdk-lib": "^2.142.1",
     "constructs": "^10.3.0",
     "esbuild": "^0.21.3",
+    "expo-cli": "^6.3.10",
     "tsx": "^4.10.5",
     "typescript": "^5.4.5"
   },
